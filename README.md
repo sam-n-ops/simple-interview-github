@@ -1,19 +1,11 @@
+# simple-interview-github
+ 
 
-## GitHub Clone
-
-### git clone https://github.com/akkySrivastava/github-clone.git
+git clone https://github.com/sam-n-ops/simple-interview-github.git
 
 install all required dependencies
-### `npm install`
-
-depois: 
-### `npm start`
-
-Video tutorial is on youtube
-
-https://youtube.com/c/CodeWithAkky
-
-
-
-
+<code><b>npm install</b></code>
+ 
+depois:
+<code><b>npm start</b></code>
 
