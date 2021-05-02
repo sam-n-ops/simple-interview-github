@@ -1,6 +1,6 @@
 # simple-interview-github
  
-<<<<<<< HEAD
+
 git clone https://github.com/sam-n-ops/simple-interview-github.git
 
 install all required dependencies
@@ -8,5 +8,4 @@ install all required dependencies
  
 depois:
 <code><b>npm start</b></code>
-=======
->>>>>>> parent of f118fff (Good)
+
